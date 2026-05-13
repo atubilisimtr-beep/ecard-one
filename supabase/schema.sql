@@ -3,7 +3,7 @@ create extension if not exists pgcrypto;
 
 create type app_role as enum ('creator', 'admin', 'super_admin', 'agency');
 
-create table if not exists public.profiles (
+--create table if not exists public.profiles (
   id uuid primary key references auth.users(id) on delete cascade,
   username text unique not null,
   display_name text not null,
