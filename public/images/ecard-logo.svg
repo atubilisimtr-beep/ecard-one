@@ -1,0 +1,13 @@
+<svg width="342" height="84" viewBox="0 0 342 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF4D4D"/>
+      <stop offset="1" stop-color="#B40000"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="80" height="80" rx="22" fill="#0B0B0B" stroke="#262626" stroke-width="2"/>
+  <path d="M24 42C24 31.5066 32.5066 23 43 23H60V34H43C38.0294 34 34 38.0294 34 43C34 47.9706 38.0294 52 43 52H56V63H43C32.5066 63 24 54.4934 24 44V42Z" fill="white"/>
+  <circle cx="62" cy="23" r="7" fill="url(#accent)"/>
+  <text x="100" y="54" fill="white" font-size="42" font-family="Manrope, Arial, sans-serif" font-weight="700" letter-spacing="-0.02em">ecard</text>
+  <text x="235" y="54" fill="#FF4D4D" font-size="42" font-family="Manrope, Arial, sans-serif" font-weight="700" letter-spacing="-0.02em">one</text>
+</svg>
